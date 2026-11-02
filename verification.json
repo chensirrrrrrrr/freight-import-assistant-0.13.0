@@ -1,0 +1,10 @@
+{
+  "application_version": "0.13.0",
+  "wrapper": "Windows Docker Desktop candidate",
+  "original_manifest_files_verified": 523,
+  "powershell_parse": "passed",
+  "cmd_actions": "5 checked",
+  "login_before_start": "fails with explicit instruction, no credentials generated",
+  "windows_end_to_end": "NOT RUN: Docker Desktop Linux engine unavailable",
+  "contains_runtime_data": false
+}
